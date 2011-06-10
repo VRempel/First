@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 public class first {
 
 	/**
-	 * @param args
+	 * @param args 
 	 */
 	public static void main(String[] args)
 	{
